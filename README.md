@@ -1,4 +1,5 @@
-# yangmahaesa
+# Draft agama Yang Maha Esa
+<h1>Yang Maha Esa</h1>
 Sebuah draft agama untuk homo sapiens.
 
 Pada saat artikel ini ditulis, terdapat 6 agama yang diakui di Indonesia yaitu: 
