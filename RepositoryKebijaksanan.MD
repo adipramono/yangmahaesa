@@ -4,7 +4,7 @@
 
 ### Waktu: Periode Kehidupan Manusia
 
-### Kelahiran
+#### Kelahiran
 
 #### Masa Balita
 
