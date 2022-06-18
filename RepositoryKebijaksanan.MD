@@ -2,9 +2,9 @@
 
 ## Intro
 
-## Kelahiran
-
 ### Periode Waktu Kehidupan Manusia
+
+### Kelahiran
 
 #### Masa Balita
 
