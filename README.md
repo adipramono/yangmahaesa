@@ -1,5 +1,4 @@
 # Draft agama Yang Maha Esa
-<h1>Yang Maha Esa</h1>
 Sebuah draft agama untuk homo sapiens.
 
 Pada saat artikel ini ditulis, terdapat 6 agama yang diakui di Indonesia yaitu: 
@@ -14,5 +13,5 @@ Saya memiliki kegelisahan dimana bagi orang yang mencari agama yang dirasa tepat
 
 Tujuan dari proyek ini adalah membuat draft agama baru di Indonesia bernama agama Yang Maha Esa, yang kemudian suatu hari dapat ditambahkan secara resmi dan diakui di Indonesia.
 
-<h2>Definisi Agama </h2>
+##Definisi Agama
 Agama dalam pandangan Yang Maha Esa adalah rancangan untuk sistem sosial budaya atas praktik dan kebiasaan, morals, kepercayaan, cara pandang dunia, tulisan. test.
