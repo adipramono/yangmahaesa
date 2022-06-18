@@ -2,7 +2,7 @@
 
 ## Intro
 
-### Periode Waktu Kehidupan Manusia
+### Waktu: Periode Kehidupan Manusia
 
 ### Kelahiran
 
