@@ -13,5 +13,5 @@ Saya memiliki kegelisahan dimana bagi orang yang mencari agama yang dirasa tepat
 
 Tujuan dari proyek ini adalah membuat draft agama baru di Indonesia bernama agama Yang Maha Esa, yang kemudian suatu hari dapat ditambahkan secara resmi dan diakui di Indonesia.
 
-##Definisi Agama
+## Definisi Agama
 Agama dalam pandangan Yang Maha Esa adalah rancangan untuk sistem sosial budaya atas praktik dan kebiasaan, morals, kepercayaan, cara pandang dunia, tulisan. test.
