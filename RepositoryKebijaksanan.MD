@@ -4,14 +4,16 @@
 
 ## Kelahiran
 
-## Masa Balita
+### Periode Waktu Kehidupan Manusia
 
-## Masa Anak - Anak
+#### Masa Balita
 
-## Masa Remaja
+#### Masa Anak - Anak
 
-## Masa Dewasa 
+#### Masa Remaja
 
-## Masa Tua
+#### Masa Dewasa 
 
-## Kematian
+#### Masa Tua
+
+#### Kematian
