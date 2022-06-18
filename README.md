@@ -23,4 +23,4 @@ Tuhan adalah kekuatan awal yang menjadikan kehidupan di jagat raya baik secara l
 Manusia adalah mahluk hidup yang tercipta melalui proses alam melalui evolusi biologis dalam waktu jutaan tahun. 
 
 ## Kitab Suci
-Kita suci di dalam agama Yang Maha Esa disebut **Repository Kebijaksanan**, yaitu  pengetahuan dan kebijaksanaan yang diupdate seiring pengetahuan dan perkembangan ilmu manusia.
+Kita suci di dalam agama Yang Maha Esa disebut [**Repository Kebijaksanan**](https://github.com/adipramono/yangmahaesa/blob/main/RepositoryKebijaksanan.MD), yaitu  pengetahuan dan kebijaksanaan yang diupdate seiring pengetahuan dan perkembangan ilmu manusia.
