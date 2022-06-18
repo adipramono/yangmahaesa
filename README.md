@@ -18,3 +18,6 @@ Agama dalam pandangan Yang Maha Esa adalah rancangan untuk sistem sosial budaya 
 
 ## Definisi Tuhan Yang Maha Esa
 Tuhan adalah kekuatan awal yang menjadikan kehidupan di jagat raya baik secara langsung, maupun secara tidak langsung, menjadi nyata. Di dalam agama Yang Maha Esa, kita mempercayai galaksi, tata surya, planet adalah hasil ciptaan alaminya. 
+
+## Definisi Manusia
+Manusia adalah mahluk hidup yang tercipta melalui proses alam melalui evolusi biologis dalam waktu jutaan tahun. 
